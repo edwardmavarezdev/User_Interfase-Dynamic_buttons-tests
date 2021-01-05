@@ -6,6 +6,7 @@ for(i=1; i<13; i++){
   loop = ("funct"+i);
 }
 
+// loop for not work to declare this, thinking another function
 functButtons.push(document.getElementById("funct1"));
 functButtons.push(document.getElementById("funct2"));
 functButtons.push(document.getElementById("funct3"));
