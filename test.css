@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+
+body{background-color: rgba(0,0,0,0.5);
+}
+
+#space{
+  width: 400px    ;
+  margin: auto;
+}
+
+#space input{
+  background-color: rgba(0,0,100,0.5);
+  border: 10px;
+  border: solid rgba(100, 100, 200, 0.5) 4px;
+  border-radius: 4px;
+  width: 100px;
+  height: 70px;
+  margin: 2px;
+  text-align: center;
+  color: rgb(180,180,180);
+}
+
+#space input:focus{border: solid purple 4px;}
+#space input:active{border: solid red 4px;}
+
+/*
+#function input:active{
+  border: solid red 4px}*/
