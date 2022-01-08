@@ -5,4 +5,4 @@ this is a testing of javacript with css about of how the boxes can be responsive
 
 <strong>How to see</strong>
 
-Download the project and with any browser open the html file
+click on this link https://edwardmavarezdev.github.io/User_Interfase-Dynamic_buttons-tests/
